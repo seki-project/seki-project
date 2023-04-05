@@ -17,5 +17,6 @@
 ![YC6xaguxdg01a6g1680683736_1680683741](https://user-images.githubusercontent.com/85538853/230031154-7069c5a2-4444-433b-8f6e-08149715c8ca.png)
 
 
-##coming soon ! 
+##coming soon ! (web page) ✔
 
+![GzdNoEzWqYhfIJI1680683947_1680683952](https://user-images.githubusercontent.com/85538853/230031090-d9b1af0a-4f33-4b8e-afe7-0d0073b992b0.png)
