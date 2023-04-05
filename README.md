@@ -20,5 +20,5 @@
 
 
 ## coming soon ! (web page) ✔
-
+自作キーボード以外にも様々なプロジェクトを行うつもりです。簡単に見たい、知りたい、共有したい場所へと移動できるページを作成中です。
 ![GzdNoEzWqYhfIJI1680683947_1680683952](https://user-images.githubusercontent.com/85538853/230031090-d9b1af0a-4f33-4b8e-afe7-0d0073b992b0.png)
