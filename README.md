@@ -8,3 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seki-project&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## Let's start making Own keyboard✨
